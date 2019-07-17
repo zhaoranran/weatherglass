@@ -1,4 +1,4 @@
-# wenduji
+# 基于vue做的温度计组件
 
 > A Vue.js project
 
